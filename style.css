@@ -18,7 +18,7 @@ ul{
     gap: 100px;
     list-style: none;
     margin-left: 100px;
-    
+    cursor: pointer;
 }
 
 li{
