@@ -29,6 +29,7 @@ li{
 
 .logo{
     height: 20px;
+    cursor: pointer;
 }
 
 .caixa-azul {
