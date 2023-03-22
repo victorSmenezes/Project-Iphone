@@ -2,4 +2,8 @@
 
 Página da apple desenvolvida no evento Você Programador, do Rodolfo Mori.
 
-Simples site!
+Landing page do site da apple, com HTML, CSS e JavaScript, em que muda dinamicamente a cor do iPhone escolhido!
+
+##
+
+<img src=""/>
