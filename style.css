@@ -64,11 +64,19 @@ li{
 .botao {
     background-color: #0071E3;
     color: #FFFFFF;
-    padding: 15px;
+    padding: 10px 20px;
     border: none;
     border-radius: 20px;
     font-size: 20px;
     cursor: pointer;
+}
+
+.botao:hover{
+    opacity: .8;
+}
+
+.botao:active{
+    opacity: .6;
 }
 
 .troca-cor {
@@ -77,6 +85,13 @@ li{
     border-radius: 50px;
     border: none;
     cursor: pointer;
+    transition: 1s, .5s;
+}
+
+.troca-cor:hover{
+    width: 45px;
+    height: 45px;
+    margin-bottom: 20px;
 }
 
 .azul {
@@ -108,7 +123,7 @@ li{
     color: #3A3A3A;
     font-weight: 700;
     margin-top: 50px;
-    margin-bottom: 15px;
+    margin-bottom: 25px;
 }
 
 .iphone {
